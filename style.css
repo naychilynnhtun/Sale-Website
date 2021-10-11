@@ -1,0 +1,22 @@
+.container {
+    border: 1px solid burlywood;
+    background-color: cornsilk;
+}
+.text-uppercase {
+    padding: 10px;
+}
+.serviceHD {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    opacity: 0.8;
+}
+.card-text {
+    text-align: left;
+}
+.card-text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
